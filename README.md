@@ -23,3 +23,7 @@ Joining the Server:
 If you were sent here to download the pack for server usage, please ensure you have been added to the whitelist, then join at the pugginpack url.
 
 If you are interested in joining our group, please contact MrMakeIt directly.  Be sure to include your Minecraft Username, and a valid email address.  If you have a reference in the group, be sure to include that as well. We are a small group, so we take the time to vet every request.  If you are accepted, you will be placed on the whitelist, and granted access to our private portal.
+
+Updating:
+====
+Mod updates are handled through XDjackieXD's PackUpdate.  For the most part, config and non server resources are handled there as well.  We currently use a fork of the PackUpdate and UpdaterUpdater programs, which should work interchangably with the original, but in the event the mods are not updating correctly, please clear the mod instance, re-download, and re-import the modpack.zip instance, as we may have changed which UpdaterUpdater we are using.
