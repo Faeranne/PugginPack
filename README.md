@@ -1,22 +1,26 @@
 About:
 ====
-The PugginPack was originally built as a private modpack for a few friends to use on a private server.  With zip files not being the easist way to update mods, we are now moving to XDjackieXD's PackUpdate manager.  In combination with MultiMC, this allows a much easier way to manage the pack.
+The PugginPack was originally built as a private modpack for a few friends to use on a private server.  With zip files not being the easiest way to update mods, we are now moving to XDjackieXD's PackUpdate manager.  In combination with MultiMC, this allows a much easier way to manage the pack.
 
 Usage:
 ====
-If you are joining the PugginPack server, you will need to download the modpack.zip file located in the master branch, as well as a copy of MultiMC5.  Then import the modpack by creating a new instance, and selecting the Import Modpack option.  The mods and config will download on first run.
+If you are joining the PugginPack server, you will need to download the PugginPack.zip file located in the master branch, as well as a copy of MultiMC5.  Then import the modpack by creating a new instance, and selecting the Import Modpack option.  The mods and config will download on first run.
 
 Permissions:
 ====
-This pack is intended for our private server, but you are free to use it, with the understanding that we will not provide any support for the pack, or the mods inside.  Since we will probably have made incompatable changes to the server configs, and most mod developers will not assist with problems involving modpacks, you are entirely on your own.  
 
-THIS INCLUDES THAUMCRAFT! Since this pack is intended for a private, whitelist only server, we do not have the time or resources to handle any issues or bugs that may arise from bad configuration.  Please do not contact azanor about any issues, as they are more likely related to our special config, than the mod itself.
- 
-Azanor: If any issues arise regarding our use of your mod, please contact MrMakeIt via CurseForge.  
+The latest list of mod permissions are available [here](permissions.md)
 
-JournyMap: We are attempting to contact the developers to confirm our usage of the Journy Map Client.  It appears we do fall within the requirements, but we do not technically use a listed launcher.  This message will be removed once we have confirmed.
+Third Party Mods: Some mods do not permit redistribution through modpacks. While this is not a traditional modpack (All mods are downloaded from their source, rather than being packaged into a zip), we are respecting the wishes of the mod authors, and not including the mods in the automatic downloader list.  Instead, we are using ModPack Tweaker, and having the user manually download the extra mods.  If you intend to join the server, you will need to download these mods.  You should be asked to download them when you first launch the instance.
 
-Other Mod Developers: We have taken the time to attempt to verify that every mod is permitted in a public mod pack.  Mods are downloaded direct from the source (i.e. CurseForge or similar), and each contains a link back to a relivent page. Of course, we aren't perfect, so if there is any issue with a mod that is included, please contact MrMakeIt on CurseForge, and we will do what we can to correct it.
+Support:
+====
+
+This pack is intended only for connecting to the private PugginPack server.  If you experience any issues while connected to the server, or while launching please contact a server admin with a copy of your minecraft log.  A log is required to assist with any issues.
+
+No support will be provided for any issues experienced while in single player, as some of the changes made do not support single player mode.  
+
+Regardless of where you experience issues, please do not contact any mod authors with errors, as we have made heavy changes to some configs, and in some cases the mods themselves.  If we determine an issues is part of the mod, we will take steps to ensure the mod developers are made aware.
 
 Joining the Server:
 ====
@@ -26,4 +30,6 @@ If you are interested in joining our group, please contact MrMakeIt directly.  B
 
 Updating:
 ====
-Mod updates are handled through XDjackieXD's PackUpdate.  For the most part, config and non server resources are handled there as well.  We currently use a fork of the PackUpdate and UpdaterUpdater programs, which should work interchangably with the original, but in the event the mods are not updating correctly, please clear the mod instance, re-download, and re-import the modpack.zip instance, as we may have changed which UpdaterUpdater we are using.
+Pack updates are handled through XDjackieXD's PackUpdate.  For the most part, config and non server resources are handled there.  The instance will automatically download any changes when launched.  You will need Oracle's Java 8.  OpenJDK currently does not work.
+
+Mod updates are handled through the Nincraft ModPackDownloader. This uses a mod manifest file to download mods from CurseForge, as well as a few third party sites.  The mod manifest will automatically be downloaded by PackUpdate and handled by ModPackDownloader.
