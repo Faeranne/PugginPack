@@ -3,5 +3,15 @@
 		"name": "Mystcraft",
 		"url": "https://minecraft.curseforge.com/projects/mystcraft/files/2321554",
 		"modid": "Mystcraft"
+	},
+	{
+		"name": "Mekanism",
+		"url": "http://adf.ly/1140958/dl.aidancbrady.com/download?u=http%3A%2F%2Faidancbrady.com%2Fwp-content%2Fuploads%2Fmekanism%2F281-recommended%2FMekanism-1.7.10-9.1.0.281.jar&wiki=http%3A%2F%2Fwiki.aidancbrady.com",
+		"modid": "Mekanism"
+	},
+	{
+		"name": "DefenseTech",
+		"url": "http://adf.ly/1140958/dl.aidancbrady.com/download?u=http%3A%2F%2Faidancbrady.com%2Fwp-content%2Fuploads%2Fdefensetech%2F46%2FDefenseTech-1.7.10-1.0.1.46.jar&wiki=http%3A%2F%2Fwiki.aidancbrady.com",
+		"modid": "DefenseTech"
 	}
 ]

@@ -1,0 +1,543 @@
+{
+  "minecraft":{
+    "version": "1.7.10"
+  },
+  "files": [
+    {
+      "fileID": 2305497,
+      "projectID": 230156,
+      "name": "Darkcore",
+      "version": "0.41",
+      "requiredBy":[
+        "TARDIS Mod"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2305503,
+      "projectID": 2301700,
+      "name": "TARDIS Mod",
+      "version": "0.995",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Darkcore"
+      ]
+    },
+    {
+      "fileID": 2306755,
+      "projectID": 245755,
+      "name": "Waystones",
+      "version": "1.0.4",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2323473,
+      "projectID": 236366,
+      "name": "OC-Minecarts",
+      "version": "oc1.5",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2230425,
+      "projectID": 228625,
+      "name": "Steve's Carts 2",
+      "version": "2.0.0.b18",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 229713,
+      "projectID": 51195,
+      "name": "Railcraft",
+      "version": "9.12.2.0",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2273754,
+      "projectID": 230977,
+      "name": "Arcane Arteries",
+      "version": "0.8.2",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2333031,
+      "projectID": 233565,
+      "name": "Warp Drive",
+      "version": "1.3.30",
+      "requiredBy":[
+      ],
+      "requires": [
+        "OpenComputers"
+      ]
+    },
+    {
+      "fileID": 2307155,
+      "projectID": 244559,
+      "name": "Wireless Crafting Terminal",
+      "version": "1.8.7b",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Applied Energistics 2"
+      ]
+    },
+    {
+      "fileID": 2322411,
+      "projectID": 248712,
+      "name": "SpatialIO Compat",
+      "version": "9",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Applied Energistics 2"
+      ]
+    },
+    {
+      "fileID": 2382830,
+      "projectID": 235442,
+      "name": "Modular Powersuit",
+      "version": "0.11.1.111",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2364447,
+      "projectID": 223666,
+      "name": "Thaumic Energistics",
+      "version": "1.0.0.5",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Applied Energistics 2"
+      ]
+    },
+    {
+      "fileID": 2234410,
+      "projectID": 69673,
+      "name": "Witchery",
+      "version": "0.24.1",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2282591,
+      "projectID": 241994,
+      "name": "Big Reactors",
+      "version": "0.4.3A",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2302354,
+      "projectID": 73510,
+      "name": "Jabba",
+      "version": "1.2.2",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2308206,
+      "projectID": 229218,
+      "name": "ExtraCells2",
+      "version": "2.3.14",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Applied Energistics 2"
+      ]
+    },
+    {
+      "fileID": 2300352,
+      "projectID": 228027,
+      "name": "Bibliocraft",
+      "version": "1.11.5",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2353995,
+      "projectID": 243538,
+      "name": "FTB Islands",
+      "version": "1.3.2",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2291494,
+      "projectID": 237102,
+      "name": "FTB Utilities",
+      "version": "1.0.18.3",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2291433,
+      "projectID": 237167,
+      "name": "FTB Lib",
+      "version": "1.0.18.3",
+      "requiredBy":[
+        "XPTeleporters",
+        "FTB Utilities",
+        "CommandScripts"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2291483,
+      "projectID": 230738,
+      "name": "XPTeleporters",
+      "version": "1.2.9",
+      "requiredBy":[
+      ],
+      "requires": [
+        "FTB Lib"
+      ]
+    },
+    {
+      "fileID": 2245762,
+      "projectID": 223794,
+      "name": "Applied Energistics 2",
+      "version": "rv2-stable-10",
+      "requiredBy":[
+        "AE2 Stuff",
+        "ExtraCells2"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2299135,
+      "projectID": 231484,
+      "name": "Cooking for Blockheads",
+      "version": "1.0.140",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Pam's Harvestcraft"
+      ]
+    },
+    {
+      "fileID": 2264826,
+      "projectID": 224791,
+      "name": "Guide API",
+      "version": "1.3.3-17",
+      "api": true,
+      "requiredBy":[
+        "Blood Magic"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2292125,
+      "projectID": 231382,
+      "name": "Brandon's Core",
+      "version": "1.0.0.12",
+      "api": true,
+      "requiredBy":[
+        "Draconic Evolution"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2233250,
+      "projectID": 229316,
+      "name": "ChickenChunks",
+      "version": "1.3.4.19",
+      "requiredBy":[
+      ],
+      "requires": [
+        "CodeChickenCore"
+      ]
+    },
+    {
+      "fileID": 2262092,
+      "projectID": 229306,
+      "name": "Ender Storage",
+      "version": "1.4.7.37",
+      "requiredBy":[
+      ],
+      "requires": [
+        "CodeChickenCore"
+      ]
+    },
+    {
+      "fileID": 2302312,
+      "projectID": 222211,
+      "name": "NotEnoughItems",
+      "version": "1.0.5.120",
+      "requiredBy":[
+      ],
+      "requires": [
+        "CodeChickenCore"
+      ]
+    },
+    {
+      "fileID": 2262089,
+      "projectID": 222213,
+      "name": "CodeChickenCore",
+      "version": "1.0.7.47",
+      "api": true,
+      "requiredBy":[
+        "NotEnoughItems",
+        "Ender Storage",
+        "ChickenChunks"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2320506,
+      "projectID": 220333,
+      "name": "CoFHLib",
+      "version": "1.1.2-184",
+      "api": true,
+      "requiredBy":[
+        "RFTools"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2272449,
+      "projectID": 233105,
+      "name": "McJtyLib",
+      "version": "1.8.1",
+      "api": true,
+      "requiredBy":[
+        "RFTools"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2287287,
+      "projectID": 224641,
+      "name": "RFTools",
+      "version": "4.23",
+      "requiredBy":[
+      ],
+      "requires": [
+        "McJtyLib",
+        "CoFHLib"
+      ]
+    },
+    {
+      "fileID": 2230518,
+      "projectID": 73488,
+      "name": "Waila",
+      "version": "1.5.10",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2380428,
+      "projectID": 231687,
+      "name": "OpenSecurity",
+      "version": "1.7.10-1.0-99",
+      "requiredBy":[
+      ],
+      "requires": [
+        "OpenComputers"
+      ]
+    },
+    {
+      "fileID": 2385983,
+      "projectID": 223008,
+      "name": "OpenComputers",
+      "version": "1.7.10-1.6.2.12",
+      "requiredBy":[
+        "OpenSecurity"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2224857,
+      "projectID": 227083,
+      "name": "Baubles",
+      "version": "1.0.1.10",
+      "api": true,
+      "requiredBy":[
+        "Thaumcraft",
+        "Botaina"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2227552,
+      "projectID": 223628,
+      "name": "Thaumcraft",
+      "version": "4.2.3.5",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Baubles"
+      ]
+    },
+    {
+      "fileID": 2283837,
+      "projectID": 225643,
+      "name": "Botania",
+      "version": "249",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Baubles"
+      ]
+    },
+    {
+      "fileID": 2238375,
+      "projectID": 64578,
+      "name": "Ender IO",
+      "version": "2.2.8.381",
+      "requiredBy":[
+      ],
+      "requires": [
+        "EnderCore"
+      ]
+    },
+    {
+      "fileID": 2270206,
+      "projectID": 221857,
+      "name": "Pam's Harvestcraft",
+      "version": "1.7.10Lb",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2210792,
+      "projectID": 223094,
+      "name": "Inventory Tweaks",
+      "version": "1.59-dev-152",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2264383,
+      "projectID": 225561,
+      "name": "Extra Utilities",
+      "version": "1.2.13",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2264244,
+      "projectID": 74924,
+      "name": "Mantel",
+      "version": "0.3.2b",
+      "api": true,
+      "requiredBy":[
+        "Tinker's Construct"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2264246,
+      "projectID": 74072,
+      "name": "Tinker's Construct",
+      "version": "1.8.8",
+      "requiredBy":[
+      ],
+      "requires": [
+        "Mantel"
+      ]
+    },
+    {
+      "fileID": 2367915,
+      "projectID": 32274,
+      "name": "Journey Map",
+      "version": "5.1.4p2",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2299019,
+      "projectID": 231951,
+      "name": "Immersive Engineering",
+      "version": "0.7.7",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2331048,
+      "projectID": 231868,
+      "version": "0.2.0.39_beta",
+      "name": "EnderCore",
+      "api": true,
+      "requiredBy":[
+        "Modpack Tweaks",
+        "Ender IO"
+      ],
+      "requires": [
+      ]
+    },
+    {
+      "fileID": 2355230,
+      "projectID": 223852,
+      "name": "Storage Drawers",
+      "version": "1.10.8",
+      "requiredBy":[
+      ],
+      "requires": [
+      ]
+    }
+  ],
+  "thirdParty": [
+    {
+      "url": "http://ci.tterrag.com/job/ModpackTweaks/26/artifact/build/libs/ModpackTweaks-MC1.7.10-1.2.0-26.jar",
+      "name": "Modpack Tweaks",
+      "requiredBy":[
+      ],
+      "requires": [
+        "EnderCore"
+      ]
+    }
+  ]
+}
